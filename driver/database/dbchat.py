@@ -33,4 +33,4 @@ async def remove_served_chat(chat_id: int):
     is_served = await is_served_chat(chat_id)
     if not is_served:
         return
-    return await chatsdb.delete_one({"chat_id": chat_id}
+    return await chatsdb.delete_one({"chat_id": chat_id})
