@@ -8,10 +8,10 @@ import platform
 from config import BOT_USERNAME
 
 from program import LOGS
-from driver.core import me_bot
-from driver.filters import command
-from driver.utils import remove_if_exists
-from driver.decorators import sudo_users_only, humanbytes
+from base.core import me_bot
+from base.filters import command
+from base.utils import remove_if_exists
+from base.decorators import sudo_users_only, humanbytes
 
 from pyrogram import Client, filters
 from pyrogram.types import Message
