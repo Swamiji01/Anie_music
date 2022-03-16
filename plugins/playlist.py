@@ -7,9 +7,9 @@ from pyrogram.types import (
     Message,
 )
 
-from driver.decorators import check_blacklist
-from driver.queues import QUEUE, get_queue
-from driver.filters import command, other_filters
+from base.decorators import check_blacklist
+from base.queues import QUEUE, get_queue
+from base.filters import command, other_filters
 
 
 keyboard = InlineKeyboardMarkup(
