@@ -8,13 +8,13 @@ from pytgcalls import (__version__ as pytgver)
 from program import __version__ as ver
 from program.start import __python_version__ as pyver
 
-from driver.core import me_bot
-from driver.filters import command
-from driver.decorators import bot_creator, sudo_users_only
-from driver.database.dbchat import get_served_chats
-from driver.database.dbusers import get_served_users
-from driver.database.dbpunish import get_gbans_count
-from driver.database.dbqueue import get_active_chats
+from base.core import me_bot
+from base.filters import command
+from base.decorators import bot_creator, sudo_users_only
+from base.database.dbchat import get_served_chats
+from base.database.dbusers import get_served_users
+from base.database.dbpunish import get_gbans_count
+from base.database.dbqueue import get_active_chats
 
 from config import BOT_USERNAME
 
