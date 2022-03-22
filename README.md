@@ -1,5 +1,5 @@
-![Marvel](https://telegra.ph/file/779310a7338533af7e970.jpg)
-# Anie_music
+![🥀 𓆩🕊️⃝𝐑𝐀𝐖𓆪 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓](https://te.legra.ph/file/c77ccd509610e7eda3c49.jpg)
+# RAW MUSIC
 
 <p align="center";
    
@@ -7,14 +7,14 @@
 
 </p>
 
-<h2 align="center";>Anie_music</h2>
+<h2 align="center";>Raw_network_music_bot</h2>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anieteam/AnieRobot)
 
 
 <h2 align="center";>OWNER</h2>
 
-<p align='center'>   <a href="https://t.me/Godfatherakki"> <img src="https://img.shields.io/badge/Owner-Akki-red?style=for-the-badge&logo=telegram" /></a> </p>
+<p align='center'>   <a href="https://t.me/Raichu_xD"> <img src="https://img.shields.io/badge/Owner-Akki-red?style=for-the-badge&logo=telegram" /></a> </p>
 
 <h2 align="center";> Manual Deploy Tutorial</h2>
 
@@ -26,6 +26,6 @@ after successfully deploy goto setting and fill This Given Value in Your Config 
 
 <h2 align="center";>SUPPORT GROUP | CHANNEL</h2>
 
-> Join official support group for any types of helps related Anie_music <br>
-<a href="https://t.me/Aniebots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Aniebotsupports"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+> Join official support group for any types of helps related tele_family_69<br>
+<a href="https://t.me/CHEMICALS_OFFICIAL"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/tele_family_69"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
