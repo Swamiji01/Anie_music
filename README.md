@@ -3,7 +3,7 @@
 
 <p align="center";
    
-<a href="https://github.com/godfatherakkii/Anie_music"> <img src="https://img.shields.io/badge/Accepting-Contribution-red?style=for-the-badge&logo=appveyor" /></a>        
+<a href="https://github.com/Raichu_xD/raw_network_music_bot"> <img src="https://img.shields.io/badge/Accepting-Contribution-red?style=for-the-badge&logo=appveyor" /></a>        
 
 </p>
 
@@ -12,7 +12,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anieteam/AnieRobot)
 
 
-<h2 align="center";>OWNER</h2>
+<h2 align="center";>Raichu_xD</h2>
 
 <p align='center'>   <a href="https://t.me/Raichu_xD"> <img src="https://img.shields.io/badge/Owner-Akki-red?style=for-the-badge&logo=telegram" /></a> </p>
 
@@ -24,7 +24,7 @@ Create a app in heroku and fork this repo then  connect to your github account a
 
 after successfully deploy goto setting and fill This Given Value in Your Config Vars
 
-<h2 align="center";>SUPPORT GROUP | CHANNEL</h2>
+<h2 align="tele_family_69";>SUPPORT GROUP | CHANNEL</h2>
 
 > Join official support group for any types of helps related tele_family_69<br>
 <a href="https://t.me/CHEMICALS_OFFICIAL"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
